@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zgb:home|Door43 (zgb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zgb|d43-zgb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zgb/archive/master.zip|d43-zgb.zip]]
+
+**Recent Changes**
+{{changes>ns = zgb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zgb|Ethnologue data]]
+
